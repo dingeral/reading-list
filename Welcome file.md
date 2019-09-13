@@ -1,6 +1,6 @@
 ＃欢迎来到StackEdit！
 
-嗨！我对你们的第一次降价文件** StackEdit **。如果你想了解StackEdit，你可以读我。如果您想玩Markdown，可以编辑我。完成后，您可以通过打开导航栏左下角的**文件浏览器**来创建新文件。
+嗨！我对你们的第一次降价文件** StackEdit **。如果你想了解StackEdit，你可以读我。如果你想玩Markdown，可以编辑我。完成后，您可以通过打开导航栏左下角的**文件浏览器**来创建新文件。
 
 
 ＃文件
@@ -21,18 +21,18 @@ StackEdit存储您的文件在您的浏览器，这意味着您的所有文件�
 
 ## 删除文件
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+您可以通过单击文件资源管理器中的**删除**按钮来删除当前文件。该文件将被移动到** Trash **文件夹中，并在7天不活动后自动删除。
 
-## Export a file
+## 导出文件
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+您可以通过单击菜单中的**导出到磁盘**来导出当前文件。您可以选择将文件导出为纯降价，使用把手模板或PDF作为HTML导出。
 
 
-# Synchronization
+＃同步
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+同步是StackEdit的最大特色之一。它使您可以将工作区中的任何文件与存储在** Google Drive **，** Dropbox **和** GitHub **帐户中的其他文件同步。这使您可以继续在其他设备上书写，与共享文件的人协作，轻松集成到您的工作流程中......同步机制在后台每分钟进行一次，下载，合并和上传文件修改。
 
-There are two types of synchronization and they can complement each other:
+有两种类型的同步，它们可以相互补充：
 
 - The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
 	> To start syncing your workspace, just sign in with Google in the menu.
@@ -142,5 +142,5 @@ B  - > D {菱形}
 C  - > D```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NzAwOTAwXX0=
+eyJoaXN0b3J5IjpbLTg0MTkyMDc0OF19
 -->
