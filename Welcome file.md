@@ -34,17 +34,17 @@ StackEdit存储您的文件在您的浏览器，这意味着您的所有文件�
 
 有两种类型的同步，它们可以相互补充：
 
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
+- 工作区同步将自动同步所有文件，文件夹和设置。这将允许您在任何其他设备上获取工作区。	> 要开始同步工作区，只需在菜单中使用Google登录即可。- 文件同步将使工作区的一个文件与** Google Drive **，** Dropbox **或** GitHub **中的一个或多个文件同步。	> 在开始同步文件之前，您必须在** Synchronize **子菜单中链接一个帐户。
 
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
 
-## Open a file
 
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
 
-## Save a file
+
+## 打开一个文件
+
+您可以从打开文件**谷歌驱动器**，** Dropbox的**或** GitHub的**通过打开**同步**子菜单，然后点击**从打开**。在工作区中打开后，文件中的任何修改都将自动同步。
+
+## 保存文件
 
 You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
 
@@ -142,5 +142,5 @@ B  - > D {菱形}
 C  - > D```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTkyMDc0OF19
+eyJoaXN0b3J5IjpbMjEwMDI1MDY4OCwtODQxOTIwNzQ4XX0=
 -->
