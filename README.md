@@ -1,6 +1,6 @@
 下面是一些我读过的书。
 
-（注：:+1:￼ 表示推荐，:+1::+1: 表示强烈推荐， :x:表示差评）
+（注：:+1: 表示推荐，:+1::+1: 表示强烈推荐， :x:表示差评）
 
 ## 索引
 
@@ -29,5 +29,5 @@
 
 ## 杂类
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjYzOTczMF19
+eyJoaXN0b3J5IjpbMTg5Njc4NDEyNiwxNTgyNjM5NzMwXX0=
 -->
